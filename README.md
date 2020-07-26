@@ -1,5 +1,5 @@
 # Ventoyed Ultimate Saver
-Live-os for All Needs | Repair Tools to Fix Any Problem | Windows & Linux  
+Live-os for All Needs | Repair Tools to Fix Any Problem | Linux, Windows & Android  
 **in a Pen Drive**
 
 ## Ventoy (A new bootable USB solution)
@@ -47,6 +47,11 @@ To create a bootable WinPE USB flash drive, CD, DVD, or virtual hard drive.
 
 > for live Windows and to repair Windows.
 
+### Android-x86 :iphone:
+[Android-x86](https://www.android-x86.org/ "official website") is a project to port [Android open source project](https://source.android.com/ "official") to x86 platform. (Run Android on your PC)
+
+> for live Android
+
 ## Tools
 
 ### Super Grub2 Disk :minidisc:
@@ -57,4 +62,8 @@ even if you cannot boot into it by normal means.
 [Rescatux](https://www.supergrubdisk.org/rescatux/ "official website") is a Debian-based live distribution featuring a graphical wizard
 for rescuing broken GNU/Linux and Windows installations and boot loaders.
 
-> To reset windows password, linux password, fix windows bootmgr, etc.,
+> To [reset windows password](https://pogostick.net/~pnh/ntpasswd/ "can use this too 'Offline Windows Password & Registry Editor'"), linux password, fix windows bootmgr, etc.,
+
+### ??? :eye:
+Hardware Diagnostic tool
+> system spec, monitor test, keyboard test, cpu gpu test, etc...
