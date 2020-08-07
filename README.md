@@ -11,6 +11,9 @@ A "Ventoy Compatible" concept is introduced by ventoy, which can help to support
 
 See https://www.ventoy.net for detail.
 
+> You can rename pendrive by `sudo exfatlabel /dev/sdb1 VENUS`
+>> replace '/dev/sdb1' to the appropriate partition
+
 ## Live OS
 bootable computer operating system which runs directly from a pen drive
 or similar storage device into a computer's memory, rather than loading from a hard disk drive.
@@ -67,3 +70,6 @@ for rescuing broken GNU/Linux and Windows installations and boot loaders.
 ### ??? :eye:
 Hardware Diagnostic tool
 > system spec, monitor test, keyboard test, cpu gpu test, etc...
+
+## Storage
+Just make a folder 'Storage', now you can put your files, etc., there. :wink:
